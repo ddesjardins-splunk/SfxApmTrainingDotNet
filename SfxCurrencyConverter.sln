@@ -14,4 +14,9 @@ Global
 		{20993177-CDD9-41DE-B16F-53E390771CCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{20993177-CDD9-41DE-B16F-53E390771CCB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		Policies = $0
+		$0.DotNetNamingPolicy = $1
+		$1.DirectoryNamespaceAssociation = PrefixedHierarchical
+	EndGlobalSection
 EndGlobal
